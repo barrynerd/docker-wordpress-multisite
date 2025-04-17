@@ -6,7 +6,7 @@ up:
 	docker compose up -d
 
 init:
-	@echo "🔧 Running WordPress install (only if needed)..."
+	@echo "🔧 Running WordPress (multisite) install (only if needed)..."
 	./setup.sh
 
 install: up init
@@ -16,3 +16,9 @@ down:
 
 reset:
 	docker compose down -v
+
+logs:
+	docker compose logs -f
+
+shell:
+	docker compose exec wordpress bash
