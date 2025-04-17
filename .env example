@@ -1,0 +1,17 @@
+WORDPRESS_DB_HOST="db"
+WORDPRESS_DB_USER="multisite_user"
+WORDPRESS_DB_PASSWORD="db_password"
+WORDPRESS_DB_NAME="wordpress_multisite"
+WORDPRESS_TABLE_PREFIX="wp_"
+WORDPRESS_DEBUG="false"
+
+WP_URL="http://localhost:8100"
+WP_TITLE="Example Site"
+WP_ADMIN_USER="barry"
+WP_ADMIN_PASSWORD="admin_password"
+WP_ADMIN_EMAIL=bcaplan@gmail.com
+
+WORDPRESS_PORT=8100
+WORDPRESS_DB_PORT=3306
+PMA_PORT=8101
+DB_PORT=3306
