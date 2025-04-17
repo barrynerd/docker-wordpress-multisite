@@ -1,4 +1,6 @@
 Release notes:
 
+1.0.1
+    - prepare for upload to github
 1.0.0
     -initial release
