@@ -6,8 +6,8 @@
 /*
 .env
 !/compose.yml
-!/compose.override.yml
 !Makefile
 !setup.sh
+!htaccess_multisite_subdirectory.txt
 
 
