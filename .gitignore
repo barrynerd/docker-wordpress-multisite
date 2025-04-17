@@ -1,0 +1,18 @@
+# ignore work directories with nested repositories
+
+# exclude .env and everything 
+# except explicitly include files
+# and .env
+
+/*
+.env
+
+# don't ignor the following files
+# and directories
+!.dockerignore
+!compose.yml
+!htaccess_multisite_subdirectory.txt
+!Makefile
+!setup.sh
+
+
