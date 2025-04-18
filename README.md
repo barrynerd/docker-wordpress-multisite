@@ -83,5 +83,5 @@ If you use this and like it, stars are appreciated!
     Login as root to the wordpress service
 
 **License**
-- GPL 2.0 (please credit BarryNerd [https://github.com/barrynerd] in your derivative versions)
+- MIT License (please credit BarryNerd [https://github.com/barrynerd] in your derivative versions)
 
