@@ -1,5 +1,8 @@
 Release notes:
 
+1.0.2
+    - add README.md for github
+    - add LICENSE file (MIT)
 1.0.1
     - prepare for upload to github
 1.0.0
